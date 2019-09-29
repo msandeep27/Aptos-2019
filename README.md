@@ -13,7 +13,11 @@ Get started today!
 ![Alt text](/images/data-distribution.png?raw=true"Training is combined with old data ")
 
 
+<<<<<<< HEAD
 ![Alt text](/images/Ben-Cropping .png?raw=true" Ben Cropping for image extraction ")
+=======
+![Alt text](/images/Ben Cropping.png?raw=true" Ben Cropping for image extraction ")
+>>>>>>> 109b784a87f47892d9e80f74636ed634ff19f030
 
 
 The submission gave an 0.884387 score in  Private Score and 0.780229 in the Public Score 
